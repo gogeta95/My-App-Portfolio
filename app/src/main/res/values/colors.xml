@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff5722</color>
+    <color name="colorPrimaryDark">#e64a19</color>
+    <color name="colorAccent">#a7ffeb</color>
+    <color name="normal_button">#8BC34A</color>
+    <color name="normal_button_pressed">#689F38</color>
+    <color name="capstone_button">#3D5AFE</color>
+    <color name="capstone_button_pressed">#304FFE</color>
+
+</resources>
